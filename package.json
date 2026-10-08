@@ -2,6 +2,6 @@
   "name": "c-test-2",
   "version": "1.0.0",
   "dependencies": {
-    "ejs": "6.0.1"
+    "ejs": "7.0.1"
   }
 }
